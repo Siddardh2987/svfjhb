@@ -1,1 +1,1 @@
-cout < qluegfhbprint("Hi");
+cout < qluegf.kfjvn.klvn("Hi");
