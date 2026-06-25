@@ -1,1 +1,1 @@
-cout <lirkub.rhkib r.kb 
+cout << "Hello World";
