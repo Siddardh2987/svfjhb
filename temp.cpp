@@ -1,1 +1,1 @@
-cout < qluegf.kfjv("Hi");
+cout < qluegf.kfjv
