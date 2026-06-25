@@ -1,1 +1,1 @@
-cout < qluegfh bprint("Hi");
+cout < qluegfhbprint("Hi");
