@@ -1,2 +1,2 @@
 print("Success ✅")
-print("Closing....")
+print("Closing now....")
